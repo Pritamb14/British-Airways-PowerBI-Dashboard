@@ -2,6 +2,10 @@
 **Overview**
 This Power BI dashboard provides a comprehensive view of customer feedback and ratings for British Airways from 2016 to 2023. It is designed to help stakeholders quickly understand how different aspects of the airline's service are perceived across various dimensions including cabin staff service, ground service, seat comfort, and onboard amenities such as food and entertainment.
 
+![Dashboard Image](https://github.com/user-attachments/assets/591b00ef-1a43-4adc-9a1d-242f339d32cf)
+
+
+
 **Features**
 Customer Rating Overview: Displays overall customer satisfaction ratings.
 Cabin Staff Service Rating: Shows ratings specifically for cabin staff services.
